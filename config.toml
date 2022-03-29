@@ -1,4 +1,4 @@
-baseurl = "linebotelho.netlify.app"
+baseurl = "http://linebotelho.netlify.app"
 title = "Aline Botelho"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
